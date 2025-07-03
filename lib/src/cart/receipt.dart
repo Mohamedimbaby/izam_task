@@ -1,5 +1,4 @@
 import 'models.dart';
-import '../catalog/item.dart';
 
 class ReceiptLine {
   final String name;

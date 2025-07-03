@@ -1,7 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:task_izam/src/cart/cart_bloc.dart';
 import 'package:task_izam/src/catalog/item.dart';
-import 'package:task_izam/src/cart/models.dart';
 
 void main() {
   final coffee = Item(id: 'p01', name: 'Coffee', price: 2.50);
